@@ -1,6 +1,6 @@
 <!-- Profile README: goes in a public repo named exactly like your GitHub username (github.com/USERNAME/USERNAME) -->
 
-# Ram Eati
+# RamSE
 
 **Principal Security Architect · Cryptographic Engineering · M.S. Computer Science (AI) student at Boston University**
 

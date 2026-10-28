@@ -1,4 +1,4 @@
-# RAM EATI
+# RamSE
 
 linkedin.com/in/[you] · github.com/RAMSEATI
 
