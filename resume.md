@@ -1,6 +1,6 @@
 # RamSE
 
-linkedin.com/in/[you] · github.com/RAMSEATI
+[linkedin.com/in/ram-eati-41040a29](https://www.linkedin.com/in/ram-eati-41040a29/) · github.com/RAMSEATI
 
 **PRINCIPAL SECURITY ARCHITECT | CRYPTOGRAPHIC ENGINEERING | CLOUD SECURITY | APPLIED AI**
 

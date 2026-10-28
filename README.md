@@ -7,7 +7,7 @@
 I've designed and built secure systems for regulated financial and retail companies, including payment platforms, enterprise PKI, HSMs, and cloud key management.
 Now I'm studying computer science and artificial intelligence so I can build the next generation of **AI-driven, quantum-safe security platforms**.
 
-📄 **[Résumé](./resume.md)** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+📄 **[Résumé](./resume.md)** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ram-eati-41040a29/)
 
 ---
 
